@@ -10,3 +10,4 @@ Remove betty file from /tmp/my_first_directory
 Delete the directory my_first_directory that is in the /tmp directory
 Changes the working directory to the previous one
 List of current, parent and /boot directory
+Print file
