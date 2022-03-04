@@ -12,3 +12,4 @@ Changes the working directory to the previous one
 List of current, parent and /boot directory
 Print file
 Creating symbolic link
+Copy files from current directory to parent directory
