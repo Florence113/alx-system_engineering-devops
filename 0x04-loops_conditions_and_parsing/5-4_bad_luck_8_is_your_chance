@@ -10,10 +10,10 @@ while [ $each_iteration -lt 10 ]
 do
 	if [ $each_iteration -eq 3 ]
 	then
-		echo "Bad Luck"
+		echo "bad luck"
 	elif [ $each_iteration -eq 7 ]
 	then
-		echo "Good Luck"
+		echo "good luck"
 	else
 		echo "Best School"
 	fi
