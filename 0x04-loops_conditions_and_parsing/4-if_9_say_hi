@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Display "Best School" 10 times but for the 9th iteration display "Best Shool" and "Hi" on a new line.
+# Display "Best School" 10 times but for the 9th iteration display "Best Shool" and "Hi" on a new line, use while loop.
 
 each_iteration=0
 
@@ -10,5 +10,5 @@ do
 		echo "Hi"
 	fi
 	echo "Best School"
-	(( $each_iteration ))
+	(( each_iteration ))
 done
